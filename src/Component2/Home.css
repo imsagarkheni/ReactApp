@@ -1,0 +1,29 @@
+a{
+    text-decoration: none;
+
+}
+
+.btn-get-started {
+    border: 1px solid blueviolet;
+    border-radius: 30px;
+    padding: 10px 20px;
+}
+.btn-get-started:hover{
+    background-color: rgb(199, 178, 220);
+    color: white;
+}
+.brand{
+    color: rgb(91, 91, 226);
+}
+.image1{
+    border-radius: 20px;
+}
+@media (min-width: 414px){
+    .image1{
+        width: 380px;
+        height: 380px;
+    }
+
+}
+
+
